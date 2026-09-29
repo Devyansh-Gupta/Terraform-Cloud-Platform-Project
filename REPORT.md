@@ -193,6 +193,10 @@ Private Website Origin HTTPS Delivery Layer
        Origin Access Control
 ```
 
+![Terraform project architecture flow](assets/terraform-architecture-flow.png)
+
+**Figure 2:** Terraform, GitHub Actions, CloudFront, Origin Access Control, and private S3 website architecture.
+
 ## Architecture Components
 
 | Layer | Component | Purpose |

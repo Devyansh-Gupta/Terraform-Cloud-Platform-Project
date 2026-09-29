@@ -10,6 +10,7 @@ An end-to-end Terraform project for provisioning a small AWS static website plat
 - Origin Access Control so the bucket is not public
 - DynamoDB-backed state locking configuration notes
 - Terraform formatting, validation, and plan checks in GitHub Actions
+- Architecture flow diagram in `assets/terraform-architecture-flow.png`
 
 ## Local validation
 
